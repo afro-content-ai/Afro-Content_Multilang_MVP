@@ -1,5 +1,0 @@
-openai
-gtts
-moviepy
-deep-translator
-requests
