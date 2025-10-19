@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#inputText {
+    width: 80%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+#output {
+    margin-top: 20px;
+    font-weight: bold;
+}
